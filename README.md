@@ -1,2 +1,3 @@
-# GIFEncoder - Forked from https://github.com/lazyygy/GIFEncoder
+# GIFEncoder 
+GIFEncoder - Forked from https://github.com/lazyygy/GIFEncoder
 
