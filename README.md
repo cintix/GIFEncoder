@@ -1,2 +1,2 @@
-# GIFEncoder
-gif格式文件读写
+# GIFEncoder - Forked from https://github.com/lazyygy/GIFEncoder
+
